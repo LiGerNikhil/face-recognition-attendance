@@ -655,7 +655,7 @@ class AttendanceApp(BoxLayout):
         # Email configuration
         self.email_config = {
             'sender_email': 'saakshinikhil@gmail.com',
-            'sender_password': 'axnl kklq fwdw tlwh',  # Use app password for Gmail
+            'sender_password': 'abcd kkla fwdw jklj',  # Use app password for Gmail
             'receiver_email': '2040124@sliet.ac.in',
             'smtp_server': 'smtp.gmail.com',
             'smtp_port': 587,
